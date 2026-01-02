@@ -1,1 +1,1 @@
-{"command":"echo GREY WOLF LIVES","description":"Second contact"}
+{"command":"uname -a && df -h","description":"System check"}
