@@ -1,0 +1,33 @@
+{
+  "name": "claudelink",
+  "version": "1.0.0",
+  "description": "Local AI Bridge - Secure connector between Claude.ai and local system",
+  "main": "src/index.js",
+  "bin": {
+    "claudelink": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/run-tests.js",
+    "watch": "node src/watcher.js"
+  },
+  "keywords": [
+    "claude",
+    "ai",
+    "anthropic",
+    "bridge",
+    "local",
+    "connector"
+  ],
+  "author": "Grey Wolf <beitholim@proton.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phipigreywolf/claudelink"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
