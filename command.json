@@ -1,1 +1,1 @@
-{"command":"find ~/Projects/EIAM-Portfolio -type f \\( -name \"*.py\" -o -name \"*.js\" -o -name \"*.ts\" -o -name \"*.html\" -o -name \"*.css\" -o -name \"*.json\" \\) | head -30","description":"EIAM structure","ts":1767435827}
+{"command":"ls -la ~/Projects/EIAM-Portfolio","description":"EIAM contents","ts":1767436059}
