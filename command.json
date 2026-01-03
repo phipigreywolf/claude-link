@@ -1,1 +1,1 @@
-{"command":"cd ~/Projects && zip -r ClaudeLink-backup-$(date +%Y%m%d).zip ClaudeLink && ls -la ClaudeLink-backup*.zip","description":"Backup ClaudeLink","ts":1767436710}
+{"command":"hostname && uptime","description":"Shannon ping","ts":1767440170}
