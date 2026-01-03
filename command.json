@@ -1,1 +1,1 @@
-{"command":"echo WOLF-6571","description":"fresh"}
+{"command":"echo === SYSTEM === && uname -a && echo && echo === USER === && whoami && echo $HOME && echo && echo === DISK === && df -h / && echo && echo === MEMORY === && free -h && echo && echo === PROJECTS === && ls -la ~/Projects && echo && echo === HOME === && ls -la ~ | head -30","description":"Explore Shannon"}
