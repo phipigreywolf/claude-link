@@ -1,1 +1,1 @@
-{"command":"cat ~/Projects/ClaudeLink/src/index.js","description":"ClaudeLink main","ts":1767436478}
+{"command":"cd ~/Projects && zip -r ClaudeLink-backup-$(date +%Y%m%d).zip ClaudeLink && ls -la ClaudeLink-backup*.zip","description":"Backup ClaudeLink","ts":1767436710}
